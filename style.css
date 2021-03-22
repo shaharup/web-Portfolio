@@ -1,5 +1,6 @@
 body{
     font-family: Roboto,Sans-sarif;
+    margin: 0px;
 }
 h1{
     font-size: 50px;
@@ -9,4 +10,20 @@ h2{
 }
 .name{
     color: maroon;
+}
+.first{
+    width: 40%;
+    float: left;
+    margin: 20px 0px 0px 50px;
+    padding-left: 10px;
+}
+.first img{
+    width: 100%;
+}
+.bg-image{
+    background-image:url("images/top-banner.png") ;
+    background-repeat: no-repeat;
+}
+section{
+    height: 600px;
 }
